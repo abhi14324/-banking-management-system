@@ -270,8 +270,8 @@ This project is open source and available under the MIT License.
 Created with ❤️ for learning purposes
 
 **Your Name**
-- GitHub: @yourusername
-- Email: your.email@example.com
+- GitHub: abhi14324
+- Email: ak3802224673@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -282,7 +282,7 @@ Created with ❤️ for learning purposes
 ## 📞 Support & Contact
 
 - **Issues**: Create an issue on GitHub
-- **Email**: your.email@example.com
+- **Email**: ak3802224637@gmail.com
 - **Documentation**: Read this README
 
 ## ⭐ Star This Repo
@@ -292,5 +292,6 @@ If you like this project, give it a ⭐ on GitHub!
 ---
 
 **Made with 🏦 Python | Streamlit | Plotly**
+
 
 *Last Updated: January 2025*
